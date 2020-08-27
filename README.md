@@ -16,6 +16,10 @@
 [<img align="left" alt="tjeufoolen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg"  />][twitter]
 [<img align="left" alt="tjeufoolen | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/linkedin.svg"  />][linkedin]
 
+---
+
+<img align="left" alt="tjeufoolen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tjeufoolen&show_icons=true&hide_border=true">
+
 <br />
 <br />
 

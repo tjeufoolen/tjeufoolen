@@ -2,12 +2,14 @@
 
 ## I'm a student! 🤓
  I'm currently studying Software Development at the Avans Hogeschool in Den Bosch (The Netherlands). 
+<br>
 In my spare time I like to 👨‍💻 tinker around with:
 - 3D Printers
 - Linux server hosting
 - IoT
 - DevOps
 - Lego (mindstorms)
+<br>
 In my spare time I also enjoy watching 🎬 movies with my GF or play 🎮 videogames with my friends!
 
 ### Connect with me:

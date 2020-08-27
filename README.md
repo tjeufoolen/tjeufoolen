@@ -1,12 +1,13 @@
-### Hi, my name is Tjeu! 👋
+# Hi, my name is Tjeu! 👋
 
 ## I'm a student!
 - 🤓 I'm currently studying Software Development at the Avans Hogeschool in Den Bosch (The Netherlands). 
 - 👨‍💻 In my spare time I like to tinker around with:
 - - 3D Printers
-- - Arduino's
-- - Raspberry PI's
 - - Linux server hosting
+- - IoT
+- - DevOps
+- - Lego (mindstorms)
 - I also enjoy watching 🎬 movies with my gf or play 🎮 videogames with my friends!
 
 ### Connect with me:

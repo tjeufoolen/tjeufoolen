@@ -1,7 +1,7 @@
 # Hi, my name is Tjeu! 👋
 
 ## I'm a student! 🤓
- I'm currently studying Software Development at the Avans Hogeschool in Den Bosch (The Netherlands). 
+ I'm currently studying Software Development at the Avans Hogeschool in S'Hertogenbosch (The Netherlands). 
 <br>
 In my spare time I like to 👨‍💻 tinker around with:
 - 3D Printers

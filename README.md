@@ -8,7 +8,7 @@
 - - IoT
 - - DevOps
 - - Lego (mindstorms)
-- I also enjoy watching 🎬 movies with my gf or play 🎮 videogames with my friends!
+- I also enjoy watching 🎬 movies with my GF or play 🎮 videogames with my friends!
 
 ### Connect with me:
 [<img align="left" alt="tjeufoolen.nl | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]

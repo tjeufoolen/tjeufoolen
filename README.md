@@ -23,7 +23,7 @@ In my spare time I also enjoy watching 🎬 movies with my GF or play 🎮 video
 
 ---
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjeufoolen&layout=compact&show_icons=true&count_private=true) -->![Stats](https://github-readme-stats.vercel.app/api?username=tjeufoolen&show_icons=true&include_all_commits=true&show_icons=true&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjeufoolen&layout=compact&show_icons=true&count_private=true) --> ![Stats](https://github-readme-stats.vercel.app/api?username=tjeufoolen&show_icons=true&include_all_commits=true&show_icons=true&count_private=true)
 
 [website]: https://tjeufoolen.nl/
 [twitter]: https://twitter.com/tjeufoolen

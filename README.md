@@ -3,10 +3,9 @@
 ## I'm a student! 🤓
  I'm currently studying Software Development at the Avans Hogeschool in S'Hertogenbosch (The Netherlands). 
 <br>
-In my spare time I like to 👨‍💻 tinker around with:
-- 3D Printers
-- Linux server hosting
-- IoT
+In my spare time I like to tinker around with:
+- Linux (hosting)
+- IoT / DIY project
 - DevOps
 - Lego (mindstorms)
 <br>

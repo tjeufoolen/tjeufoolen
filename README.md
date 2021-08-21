@@ -2,12 +2,11 @@
 I'm currently studying Software Development at the Avans Hogeschool in S'Hertogenbosch (The Netherlands). 
 
 ## ❤️My Interests 
-Mainly my interests lie in:
+I'm mainly interested in the following subjects:
 - Software development
 - Internet of things 
 - DevOps
 - Linux server hosting
-
 <br>
 In my spair time I enjoy watching 🎬 movies and play 🎮 videogames with my friends!
 

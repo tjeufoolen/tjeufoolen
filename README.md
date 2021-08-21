@@ -4,12 +4,11 @@
  I'm currently studying Software Development at the Avans Hogeschool in S'Hertogenbosch (The Netherlands). 
 <br>
 In my spare time I like to tinker around with:
-- Linux (hosting)
-- IoT / DIY project
+- Linux server hosting
+- Internet of things
 - DevOps
-- Lego (mindstorms)
 <br>
-In my spare time I also enjoy watching 🎬 movies with my GF or play 🎮 videogames with my friends!
+In my spare time I enjoy watching 🎬 movies or play 🎮 videogames with my friends!
 
 ### Connect with me:
 [<img align="left" alt="tjeufoolen.nl | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]

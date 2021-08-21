@@ -1,16 +1,17 @@
-# Hi, my name is Tjeu! 👋
+# Hi, nice to meet you! My name is Tjeu! 👋
+I'm currently studying Software Development at the Avans Hogeschool in S'Hertogenbosch (The Netherlands). 
 
-## I'm a student! 🤓
- I'm currently studying Software Development at the Avans Hogeschool in S'Hertogenbosch (The Netherlands). 
-<br>
-In my spare time I like to tinker around with:
-- Linux server hosting
-- Internet of things
+## My Interests
+Mainly my interests lie in:
+- Software development
+- Internet of things 
 - DevOps
-<br>
-In my spare time I enjoy watching 🎬 movies or play 🎮 videogames with my friends!
+- Linux server hosting
 
-### Connect with me:
+<br>
+In my spair time I enjoy watching 🎬 movies and play 🎮 videogames with my friends!
+
+### Connect with me
 [<img align="left" alt="tjeufoolen.nl | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
 [<img align="left" alt="tjeufoolen | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/behance.svg"  />][behance]
 [<img align="left" alt="tjeufoolen | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/linkedin.svg"  />][linkedin]

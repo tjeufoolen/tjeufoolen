@@ -27,7 +27,7 @@ I am a graduate software engineer currently trying to pursue my dream carreer.
 ---
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjeufoolen&layout=compact&show_icons=true&count_private=true) --> 
-![Stats](https://github-readme-stats.vercel.app/api?username=tjeufoolen&show_icons=true&include_all_commits=true&show_icons=true&count_private=true)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=tjeufoolen&show_icons=true&include_all_commits=true&show_icons=true&count_private=true) --> 
 
 [website]: https://tjeufoolen.nl/
 [behance]: https://www.behance.net/TjeuFoolen

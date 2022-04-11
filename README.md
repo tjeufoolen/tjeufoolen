@@ -21,8 +21,8 @@ I am a graduate software engineer currently trying to pursue my dream carreer.
 [<img align="left" alt="tjeufoolen | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg"  />][twitter]
 [<img align="left" alt="tjeufoolen | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/linkedin.svg"  />][linkedin]
 [<img align="left" alt="tjeufoolen | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/stackoverflow.svg" />][stackoverflow]
-<br />
-<br />
+<!-- <br /> -->
+<!-- <br /> -->
 
 <!-- --- -->
 

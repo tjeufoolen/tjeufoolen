@@ -1,18 +1,24 @@
-# Hi, nice to meet you! My name is Tjeu! 👋
-I'm currently studying Software Development at the Avans Hogeschool in S'Hertogenbosch (The Netherlands). 
+# Hi, nice to meet you! 👋
+My name is Tjeu. 
+I am a graduate software engineer currently trying to pursue my dream carreer.
 
-## ❤️ My Interests 
-I'm mainly interested in the following subjects:
-- Software development
-- Internet of things 
+## Work interests 
+- Advanced algorithms
+- Design Patterns
 - DevOps
-- Linux server hosting
-<br>
-In my spair time I enjoy watching 🎬 movies and play 🎮 videogames with my friends!
+- UNIX desktop/server environments
 
-### 🦜 Connect with me
+## Hobbies
+- 🛠️ Integrate domotica (IoT) wherever I can
+- 🎬 Keep movie and TV show marathons
+- 🎮 Play singleplayer games on my PS5 and competitive games with my friends on my pc
+- 🏄‍♂️ Catch a wave while wakeboarding at a cable park or behind a boat
+- 🚐 Go on a roadtrip with my girlfriend
+
+### Let's become friends!
 [<img align="left" alt="tjeufoolen.nl | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
 [<img align="left" alt="tjeufoolen | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/behance.svg"  />][behance]
+[<img align="left" alt="tjeufoolen | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg"  />][twitter]
 [<img align="left" alt="tjeufoolen | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/linkedin.svg"  />][linkedin]
 [<img align="left" alt="tjeufoolen | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/stackoverflow.svg" />][stackoverflow]
 <br />
@@ -25,5 +31,6 @@ In my spair time I enjoy watching 🎬 movies and play 🎮 videogames with my f
 
 [website]: https://tjeufoolen.nl/
 [behance]: https://www.behance.net/TjeuFoolen
+[twitter]: https://twitter.com/tjeufoolen
 [linkedin]: https://www.linkedin.com/in/tjeu-foolen-71b186121/
 [stackoverflow]: https://stackoverflow.com/users/11023639/tjeu-foolen

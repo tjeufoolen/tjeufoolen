@@ -10,9 +10,10 @@ I am a graduate software engineer currently trying to pursue my dream carreer.
 
 ## Hobbies
 - 🛠️ Integrate domotica (IoT) wherever I can
-- 🎬 Keep movie and TV show marathons
-- 🎮 Play singleplayer games on my PS5 and competitive games with my friends on my pc
+- 🎬 Host movie and TV show marathons
+- 🎮 Play singleplayer games on my PS5 and competitive games with my friends on pc
 - 🏄‍♂️ Catch a wave while wakeboarding at a cable park or behind a boat
+- ⛳ Smash a ball at the local golfclub
 - 🚐 Go on a roadtrip with my girlfriend
 
 ### Let's become friends!

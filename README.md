@@ -11,17 +11,21 @@ I am a graduate software engineer currently trying to pursue my dream carreer.
 ## Hobbies
 - 🛠️ Integrate domotica (IoT) wherever I can
 - 🎬 Host movie and TV show marathons
-- 🎮 Play singleplayer games on my PS5 and competitive games with my friends on pc
-- 🏄‍♂️ Catch a wave while wakeboarding at a cable park or behind a boat
-- ⛳ Smash a ball at the local golfclub
+- 🖨️ Fabricate objects with my 3D printers
+- 🏆 Achieve new platinum trophies on my ps5
 - 🚐 Go on a roadtrip with my girlfriend
+
+## Sports
+- 🔫 Play airsoft with my friends
+- ⛳ Smash a ball at the local golfclub
+- 🏄‍♂️ Catch a wave while wakeboarding at a cable park or behind a boat
 
 ### Let's become friends!
 [<img align="left" alt="tjeufoolen.nl | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
 [<img align="left" alt="tjeufoolen | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/behance.svg"  />][behance]
 [<img align="left" alt="tjeufoolen | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg"  />][twitter]
 [<img align="left" alt="tjeufoolen | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/linkedin.svg"  />][linkedin]
-[<img align="left" alt="tjeufoolen | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="tjeufoolen | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/stackoverflow.svg" />][stackoverflow]
 <!-- <br /> -->
 <!-- <br /> -->
 

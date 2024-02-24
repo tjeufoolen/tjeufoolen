@@ -1,6 +1,6 @@
 # Hi, nice to meet you! 👋
 My name is Tjeu. 
-I am a graduate software engineer currently trying to pursue my fullstack dream carreer.
+I am a software engineer currently trying to pursue my dream carreer.
 
 ## Work interests 
 - Frontend development (Angular/React/Vue)

@@ -1,12 +1,11 @@
 # Hi, nice to meet you! 👋
 My name is Tjeu. 
-I am a graduate software engineer currently trying to pursue my dream carreer.
+I am a graduate software engineer currently trying to pursue my fullstack dream carreer.
 
 ## Work interests 
-- Advanced algorithms
-- Design Patterns
-- DevOps
-- UNIX desktop/server environments
+- Frontend development (Angular/React/Vue)
+- Java backend development (Jakarta/Spring(boot)/Quarkus)
+- Microservices & containerization
 
 ## Hobbies
 - 🛠️ Integrate domotica (IoT) wherever I can
